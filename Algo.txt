@@ -1,0 +1,3 @@
+Decide which business to buy pizza from.
+Decide what kind of pizza to get.
+Decide how/who is paying.
