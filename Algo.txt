@@ -1,3 +1,8 @@
 Decide which business to buy pizza from.
 Decide what kind of pizza to get.
 Decide how/who is paying.
+Decide how/who is ordering.
+Order pizza.
+Wait for delivery.
+Tip Deliverer.
+Devour Delicious pizza.
