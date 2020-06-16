@@ -1,3 +1,7 @@
 Decide what business to buy pizza from.
 Decide what pizza we want.
 Decide whos paying.
+Decide whos ordering. 
+Order the pizza.
+Tip the driver.
+Eat the pizza.
