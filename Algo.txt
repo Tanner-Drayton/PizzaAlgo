@@ -6,3 +6,4 @@ Order pizza.
 Wait for delivery.
 Tip Deliverer.
 Devour Delicious pizza.
+Regret eating a whole pizza by yourself
